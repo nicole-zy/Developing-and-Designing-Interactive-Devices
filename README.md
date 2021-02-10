@@ -52,7 +52,7 @@ Example:  [Ilan Mandel im334](https://github.com/imandel/Interactive-Lab-Hub)
 
 6. [Irene Font Peradejordi - if76](https://github.com/IreneFP/Interactive-Lab-Hub)
 																		
-
+7. [Nicole Zhang - yz2778] (https://github.com/nicole-zy/Interactive-Lab-Hub)
 
 ## Office Hours 
 
